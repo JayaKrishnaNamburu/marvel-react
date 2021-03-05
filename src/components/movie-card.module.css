@@ -2,6 +2,7 @@
   width: 300px;
   height: 550px;
   display: flex;
+  padding: 10px;
   overflow: auto;
   align-items: center;
   flex-direction: column;
@@ -24,5 +25,6 @@
   background-color: #f5f8fa;
 }
 .text1 {
+  height: 200px;
   word-break: break-all;
 }

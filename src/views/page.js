@@ -18,6 +18,7 @@ const Page = () => {
         <MovieCard></MovieCard>
         <MovieCard></MovieCard>
         <MovieCard></MovieCard>
+        <MovieCard></MovieCard>
       </div>
     </div>
   )

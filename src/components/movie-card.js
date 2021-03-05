@@ -9,7 +9,7 @@ const MovieCard = (props) => {
   return (
     <div className={styles.container}>
       <img
-        alt="Movie Image"
+        alt="Movie Poster"
         src={props.src}
         className={` ${projectStyles.thqImage} ${styles.image} `}
       />
